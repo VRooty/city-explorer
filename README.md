@@ -1,8 +1,19 @@
-# React + Vite
+**Author**: Vicky Rooney
+**Version**: 1.0.0 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A city location website
 
-Currently, two official plugins are available:
+## Getting Started
+Here we gooooo!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Architecture
+Using React
+
+## Change Log
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
+
+01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
+## Credit and Collaborations
+<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
